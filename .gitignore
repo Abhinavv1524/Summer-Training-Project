@@ -1,0 +1,41 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+.eggs/
+.eggs-info/
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+# Virtual environments
+venv/
+ENV/
+env/
+# PyInstaller
+*.spec
+# Pytest cache
+.cache/
+# Coverage reports
+.coverage
+.coverage.*
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# PyCharm project files
+.idea/
+# VS Code settings
+.vscode/
+# MyPy
+.mypy_cache/
+# Pyre type checker
+.pyre/
+
+*.pdf
+*.docx
+# Temporary files
+*.tmp
